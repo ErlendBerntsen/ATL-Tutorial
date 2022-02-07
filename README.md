@@ -1,0 +1,3 @@
+This repository only contains files related to the ATL tutorial. It has the source model (Families.ecore) and target model (Persons.ecore). The transformation is specified in Families2Persons.atl and the configuration for running that file is specified by Families2Persons.launch. Running the transformation with the sample source model (sample-Families.xmi) will produce an sample target model as output (sample-Persons.xmi).
+
+Unfortunately, i wasn't able to finish the tutorial about EMF form renderers since the program crashed/contained errors when trying to run the RAP renderer. A couple of hours were spent to try to fix the problems but to no avail :(
